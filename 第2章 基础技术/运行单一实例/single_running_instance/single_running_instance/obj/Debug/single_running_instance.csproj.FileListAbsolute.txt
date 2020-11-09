@@ -1,0 +1,6 @@
+c:\users\test\documents\visual studio 2013\Projects\single_running_instance\single_running_instance\bin\Debug\single_running_instance.exe.config
+c:\users\test\documents\visual studio 2013\Projects\single_running_instance\single_running_instance\bin\Debug\single_running_instance.exe
+c:\users\test\documents\visual studio 2013\Projects\single_running_instance\single_running_instance\bin\Debug\single_running_instance.pdb
+c:\users\test\documents\visual studio 2013\Projects\single_running_instance\single_running_instance\obj\Debug\single_running_instance.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2013\Projects\single_running_instance\single_running_instance\obj\Debug\single_running_instance.exe
+c:\users\test\documents\visual studio 2013\Projects\single_running_instance\single_running_instance\obj\Debug\single_running_instance.pdb
